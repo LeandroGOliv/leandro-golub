@@ -1,0 +1,19 @@
+@import "tailwindcss";
+@import "bootstrap-icons/font/bootstrap-icons.css";
+
+@theme {
+  --font-display: "Nunito Sans", sans-serif;
+  --breakpoint-xs: 480px;
+  --breakpoint-3xl: 1920px;
+
+  --color-primary: #2a324b;
+  --color-secondary: #f3f3f5;
+  --color-accent: #d3af37;
+  --text-color: #1c1c1c;
+}
+
+@layer base {
+  body {
+    @apply bg-secondary min-h-screen;
+  }
+}
