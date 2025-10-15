@@ -11,9 +11,6 @@
   --color-accent: #d3af37;
   --text-color: #1c1c1c;
 }
-
-@layer base {
-  body {
-    @apply bg-secondary min-h-screen;
-  }
+body {
+  background-color: var(--color-primary);
 }
