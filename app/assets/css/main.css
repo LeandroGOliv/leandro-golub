@@ -9,7 +9,7 @@
   --color-primary: #2a324b;
   --color-secondary: #f3f3f5;
   --color-accent: #d3af37;
-  --text-color: #1c1c1c;
+  --textcolor: #1c1c1c;
 }
 body {
   background-color: var(--color-primary);
