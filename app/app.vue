@@ -4,7 +4,7 @@
   <LayoutAppHeader />
   <SectionsHome class="min-h-[calc(100vh-4rem)] w-full" />
   <SectionsAbout class="min-h-screen w-full" />
-  <!-- projetos/tecnologias(dividir em 2 componentes) -->
+  <SectionsProjectsAndStack class="min-h-screen w-full" />
   <!-- contato -->
   <!-- footer -->
 </template>
