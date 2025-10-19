@@ -8,16 +8,16 @@
     <nav class="flex w-full h-full justify-end">
       <ul class="flex items-center gap-10">
         <li>
-          <UiNavLink label="Início" to="home" />
+          <UiNavLink label="Início" to="#home" />
         </li>
         <li>
-          <UiNavLink label="Sobre" to="about" />
+          <UiNavLink label="Sobre" to="#about" />
         </li>
         <li>
-          <UiNavLink label="Projetos e tecnologias" to="projects-stack" />
+          <UiNavLink label="Projetos e tecnologias" to="#projects-stack" />
         </li>
         <li>
-          <UiNavLink label="Contato" to="contact" />
+          <UiNavLink label="Contato" to="#contact" />
         </li>
       </ul>
     </nav>
