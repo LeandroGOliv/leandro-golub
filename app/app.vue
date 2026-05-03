@@ -4,7 +4,7 @@
   <SectionsHome class="min-h-screen w-full" />
   <SectionsAbout class="min-h-screen w-full" />
   <SectionsProjectsAndStack class="min-h-screen w-full" />
-  <!-- contato -->
+  <SectionsContact class="min-h-screen w-full" />
   <!-- footer -->
 </template>
 
